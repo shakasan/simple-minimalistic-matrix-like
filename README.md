@@ -1,5 +1,4 @@
-Simple Matrix Like
-==================
+# Simple Matrix Like
 
 An old (around 20 years ago ^^) piece of code written in Pascal just for fun ^^
 
