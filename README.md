@@ -1,6 +1,6 @@
 # Simple Matrix Like
 
-An old (around 20 years ago ^^) piece of code written in Pascal just for fun ^^
+An very old (end of '90) piece of code written in Pascal just for fun ^^
 
 Display a simple and minimalistic Matrix like animation in a terminal
 
